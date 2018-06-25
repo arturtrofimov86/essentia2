@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="57px" viewBox="0 0 59 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>7A7BE46C-B44B-405F-B419-5FBF8335E309</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="-0.0351311953%" y1="49.9829231%" x2="100%" y2="49.9829231%" id="linearGradient-1">
+            <stop stop-color="#532EC1" offset="0%"></stop>
+            <stop stop-color="#0017FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M37.860877,26.9276253 C37.860877,26.9276253 33.503676,48.9752441 13.170071,48.9752441 C2.78171593,48.9752441 0.0492339103,42.0431324 0.0492339103,36.9629205 C0.0492339103,31.8827087 4.97262494,25.1257767 16.2964243,25.1257767 C27.6202237,25.1257767 29.4172614,28.9797305 37.860877,26.9276253 Z M34.4637372,24.0246471 C45.7875366,24.0246471 50.7109276,17.2677151 50.7109276,12.1875033 C50.7109276,7.10729142 47.9784456,0.175179718 37.5900905,0.175179718 C17.2318686,0.175179718 12.8992845,22.2227985 12.8992845,22.2227985 C21.3429001,20.1456676 23.1399379,24.0246471 34.4637372,24.0246471 Z" id="path-2"></path>
+        <filter x="-13.8%" y="-10.2%" width="127.6%" height="128.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-685.000000, -905.000000)">
+        <g id="Stacked-Group" transform="translate(160.000000, 790.000000)">
+            <g id="Group-10" transform="translate(208.000000, 0.000000)">
+                <g id="status" transform="translate(318.000000, 113.000000)">
+                    <rect id="Rectangle-Copy-2" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="58" height="58"></rect>
+                    <g id="Status" transform="translate(3.052632, 3.932203)" fill-rule="nonzero">
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

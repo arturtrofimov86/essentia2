@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="61px" viewBox="0 0 38 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>8A194BC0-C040-4DAF-9CAD-B61628CF95BC</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="17.3615907 41.2812867 17.1531532 41.5351058 17.1531532 54.5167597 17.3615907 55.125 34.3063063 31.2871622"></polygon>
+        <filter x="-40.8%" y="-21.0%" width="181.6%" height="158.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-542.000000, -902.000000)">
+        <g id="Stacked-Group" transform="translate(160.000000, 790.000000)">
+            <g id="Group-10" transform="translate(208.000000, 0.000000)">
+                <g id="ethereum" transform="translate(160.000000, 108.000000)">
+                    <rect id="Rectangle-Copy-2" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="64" height="63"></rect>
+                    <g id="Gnosis-copy" transform="translate(14.400000, 4.725000)" fill-rule="nonzero">
+                        <polygon id="Shape" fill="#343434" points="17.0260904 0 16.6486486 1.26156841 16.6486486 37.8693621 17.0260904 38.2398649 34.3063063 28.19539"></polygon>
+                        <polygon id="Shape" fill="#8C8C8C" points="17.1531532 0 0 28.1952921 17.1531532 38.2398649 17.1531532 20.4715987"></polygon>
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#3C3C3B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <polygon id="Shape" fill="#8C8C8C" points="17.1531532 55.125 17.1531532 41.2812867 0 31.2871622"></polygon>
+                        <polygon id="Shape" fill="#141414" points="17.1531532 38.2398649 34.3063063 28.1331607 17.1531532 20.3614865"></polygon>
+                        <polygon id="Shape" fill="#393939" points="0 28.1331607 17.1531532 38.2398649 17.1531532 20.3614865"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

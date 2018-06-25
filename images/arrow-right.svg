@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>07E5F102-A35D-456D-B48D-2553901AC63B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M4.38529853,4.17878765 L0.705957097,0.132857463 C0.544510053,-0.0442858211 0.282940021,-0.0442858211 0.121085283,0.132857463 C-0.040361761,0.310000747 -0.040361761,0.597727782 0.121085283,0.774871067 L3.50858537,4.49977577 L0.121492977,8.22468047 C-0.0399540664,8.40182375 -0.0399540664,8.68955079 0.121492977,8.86714254 C0.282940021,9.04428582 0.544917748,9.04428582 0.706364791,8.86714254 L4.38570623,4.82121235 C4.54470711,4.64590029 4.54470711,4.35365124 4.38529853,4.17878765 Z" id="path-1"></path>
+    </defs>
+    <g id="Website-2-sections-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-461.000000, -8169.000000)">
+        <g id="Group-21-Copy" transform="translate(136.000000, 7609.000000)">
+            <g id="Group-10" transform="translate(325.000000, 560.000000)">
+                <circle id="Oval-3" fill="#FFFFFF" cx="11.5" cy="11.5" r="11.5"></circle>
+                <g id="Icons/Brand/Arrow-Right" opacity="0.386152627" transform="translate(6.000000, 6.000000)">
+                    <g id="arrow-right">
+                        <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="12" height="12"></rect>
+                        <g id="Rectangle" transform="translate(3.500000, 1.500000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <rect fill="#2576F4" mask="url(#mask-2)" x="-3.5" y="-1.5" width="12" height="12"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

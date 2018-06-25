@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50" style="transform-orign: 50% 50% 0px;">
+    <g fill="none" fill-rule="evenodd">
+        <circle class="hover-svg" cx="25" cy="25" r="20" stroke="#2576f4" stroke-width="10" fill="transparent"></circle>
+        <g fill="#2576f4" fill-rule="nonzero">
+            <path d="M7.778 8.333v33.334H41.11V8.333H7.778zm28.191 7.376l-3.916 18.838a.627.627 0 0 1-.982.379l-5.346-3.882a.884.884 0 0 0-1.078.03l-2.964 2.417a.626.626 0 0 1-.994-.3l-2.058-6.618-5.318-1.985a.627.627 0 0 1-.006-1.172l21.823-8.419a.627.627 0 0 1 .84.712z"></path>
+            <path d="M30.75 19.116l-10.393 6.4a1.047 1.047 0 0 0-.457 1.177l1.124 3.948c.08.28.486.252.524-.037l.292-2.166c.056-.407.25-.783.552-1.063l8.576-7.973c.16-.148-.032-.401-.218-.286z"></path>
+        </g>
+    </g>
+</svg>

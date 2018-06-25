@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="58px" viewBox="0 0 63 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>F7429CB3-BEB8-4A42-9F4A-6BA7878C1877</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M0.0774391233,8.56091671 C0.0774391233,6.2047011 0.92926948,4.16264757 2.55549107,2.51329665 C4.25915178,0.863945723 6.19512986,0 8.51830356,0 L36.6287053,0 L31.5951623,8.95361931 L8.9829383,8.95361931 L8.9829383,20.3419948 L25.2451542,20.3419948 L19.9792938,29.4526951 L8.9829383,29.4526951 L8.9829383,40.8410705 L13.4744075,40.8410705 L8.67318181,49.8732304 L0,49.8732304 L0,8.56091671 L0.0774391233,8.56091671 Z" id="path-1"></path>
+        <filter x="-19.1%" y="-10.0%" width="138.2%" height="128.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M54.8656189,41.3257742 C54.8656189,43.6782851 54.0137885,45.7171278 52.3875669,47.3638854 C50.6839062,49.0106431 48.7479281,49.8732304 46.4247544,49.8732304 L18.3143527,49.8732304 L23.3478957,40.8552721 L45.9601197,40.8552721 L45.9601197,29.4848029 L29.6979038,29.4848029 L34.9637642,20.3884275 L45.9601197,20.3884275 L45.9601197,9.01795832 L41.4686505,9.01795832 L46.2698762,0 L54.943058,0 L54.943058,41.3257742 L54.8656189,41.3257742 Z" id="path-3"></path>
+        <filter x="-19.1%" y="-10.0%" width="138.2%" height="128.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-977.000000, -1064.000000)">
+        <g id="Stacked-Group" transform="translate(160.000000, 790.000000)" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(208.000000, 0.000000)">
+                <g id="flyp.me" transform="translate(613.000000, 276.000000)">
+                    <g id="XMLID_2484_">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#09C5D5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="XMLID_2482_">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#EFE8E8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
