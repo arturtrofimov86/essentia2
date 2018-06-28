@@ -776,6 +776,12 @@ h2.title:after{
 .s-r-bg svg:last-child{
     top: 73px;
 }
+.s4 p{
+    text-align: center;
+    font-family: SFUIDisplay, sans-serif;
+    line-height: 1.5;
+    color: #515e6f;
+}
 footer{
     margin-top: 0;
 }
