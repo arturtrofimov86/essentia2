@@ -813,7 +813,12 @@ a {
     margin-left: 30px; }
   .s3-item.s3-solutions .s3-img img {
     height: 590px; }
-
+  .s4 p{
+          text-align: center;
+    font-family: SFUIDisplay, sans-serif;
+    line-height: 1.5;
+    color: #515e6f;
+  }
 .s4 {
   z-index: 3;
   margin-top: 66px; }
