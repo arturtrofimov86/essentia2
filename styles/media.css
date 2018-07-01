@@ -980,12 +980,12 @@
 }
 @media (min-width: 1920px) {
   .bg-1 {
-    right: 42%;
+    right: 41%;
     -webkit-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s; }
   .bg-2 {
-    right: 72%;
+    right: 79%;
     -webkit-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s; }
